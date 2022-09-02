@@ -9,14 +9,6 @@
 
 <br />
 
-#### RELEASE NOTES: V1.0.0:
-- First version of the project 🎉
-- See if the weather won't spoil your weekend party!
-- Current information of your city and others
-- Forecast options: "today" and "tomorrow"
-
-<br />
-
 #### TECHNOLOGIES:
 - HTML 📄
 - CSS 🎨
